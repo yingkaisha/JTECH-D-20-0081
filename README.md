@@ -6,4 +6,4 @@ This repository contains supplemental information of the following publication:
 
 # Contact
 
-Yingkai (Kyle) Sha <yingkai@eoas.ubc.ca>
+Yingkai (Kyle) Sha <<yingkai@eoas.ubc.ca>>
